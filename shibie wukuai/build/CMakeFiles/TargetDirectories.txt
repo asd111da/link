@@ -1,0 +1,3 @@
+/home/ab/cpp/shibie wukuai/build/CMakeFiles/demo.dir
+/home/ab/cpp/shibie wukuai/build/CMakeFiles/edit_cache.dir
+/home/ab/cpp/shibie wukuai/build/CMakeFiles/rebuild_cache.dir
