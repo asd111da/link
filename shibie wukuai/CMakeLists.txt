@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.20)
+project(shibie)
+add_executable(demo main.cpp)
+find_package(OpenCV REQUIRED)
+target_link_libraries(demo ${OpenCV_LIBS})

@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/ab/cpp/shibie wukuai/build",
+  "command": "/usr/bin/c++ -isystem /usr/include/opencv4 -g -o CMakeFiles/demo.dir/main.cpp.o -c \"/home/ab/cpp/shibie wukuai/main.cpp\"",
+  "file": "/home/ab/cpp/shibie wukuai/main.cpp"
+}
+]
